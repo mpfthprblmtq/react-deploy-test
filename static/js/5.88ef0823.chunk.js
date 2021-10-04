@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-deploy-test"]=this["webpackJsonpreact-deploy-test"]||[]).push([[5],{78:function(t,e,a){"use strict";a.r(e);var s=a(79),c=a(2);e.default=function(){return Object(c.jsx)(s.a,{children:"I'm an about page!"})}}}]);
+//# sourceMappingURL=5.88ef0823.chunk.js.map
