@@ -4,8 +4,8 @@
     "static/js/0.b8a457ce.chunk.js.map": "/react-deploy-test/static/js/0.b8a457ce.chunk.js.map",
     "static/js/1.8b2624c8.chunk.js": "/react-deploy-test/static/js/1.8b2624c8.chunk.js",
     "static/js/1.8b2624c8.chunk.js.map": "/react-deploy-test/static/js/1.8b2624c8.chunk.js.map",
-    "main.js": "/react-deploy-test/static/js/main.43c455ea.chunk.js",
-    "main.js.map": "/react-deploy-test/static/js/main.43c455ea.chunk.js.map",
+    "main.js": "/react-deploy-test/static/js/main.97b7ebff.chunk.js",
+    "main.js.map": "/react-deploy-test/static/js/main.97b7ebff.chunk.js.map",
     "runtime-main.js": "/react-deploy-test/static/js/runtime-main.ce9a45d6.js",
     "runtime-main.js.map": "/react-deploy-test/static/js/runtime-main.ce9a45d6.js.map",
     "static/js/4.5c7deaf4.chunk.js": "/react-deploy-test/static/js/4.5c7deaf4.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.ce9a45d6.js",
     "static/js/5.8a6aade4.chunk.js",
-    "static/js/main.43c455ea.chunk.js"
+    "static/js/main.97b7ebff.chunk.js"
   ]
 }
